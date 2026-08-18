@@ -3,26 +3,22 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
-BoardGameGeek
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
 Pornhub
@@ -43,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
