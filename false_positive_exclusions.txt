@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -19,6 +18,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Minecraft
 ObservableHQ
 Odysee
@@ -27,7 +27,6 @@ Pornhub
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
 RocketTube
 Scribd
