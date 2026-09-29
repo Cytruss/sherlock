@@ -13,17 +13,13 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -47,6 +43,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+hunting
 igromania
 interpals
 mercadolivre
@@ -54,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
