@@ -15,6 +15,7 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerNews
 Hashnode
 Houzz
 Hubski
@@ -35,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
