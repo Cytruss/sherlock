@@ -1,23 +1,24 @@
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
 Linktree
+Mamot
 Minecraft
 ObservableHQ
-Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -32,6 +33,7 @@ Spotify
 TryHackMe
 Velomania
 Vero
+YandexMusic
 authorSTREAM
 dailykos
 fixya
