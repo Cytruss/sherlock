@@ -3,7 +3,6 @@ AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
 Chatujme.cz
 Codolio
 Discord.bio
@@ -14,11 +13,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
-Mamot
 Minecraft
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -30,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
